@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Simple Dashboard with Authentication",
+  "description": "A clean, modern Login and Register interface with a Simple Dashboard and Supabase integration guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
